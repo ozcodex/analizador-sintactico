@@ -1,0 +1,21 @@
+v0.1 	- Añadida Lista de Tokens
+v0.2 	- Construir Definiciones para Tokens
+v0.3 	- Definiciones Especiales
+v0.4 	- Definicon Nueva Linea y Comentarios
+v1.0 	- Reconocimiento de Tokens, Error en Numeros y Comentarios Cortos
+v1.1 	- Corregidos Numeros
+v1.2 	- Corregidos Comentarios Cortos
+v1.2.1 	- Mejorada Presentacion Codigo
+v1.3 	- Reconocimiento de Tokens en mayusculas y minusculas
+v1.4	- Nuevo identificador, operaciones MM PP, Error comentarios
+v1.5	- Fix Comentarios
+v1.5.1	- Nueva Excepcion para ID's
+v1.5.2	- Reconoce n espacios en los comentarios
+v2	- Añadidos Tokens para el Parser y mejorado UNID
+v2.1	- Eliminado UNID y mejorado el reconocimiento de mayus en Palabras Reservadas
+v2.2	- Reconocimiento correcto de comentarios
+v3	- Sustentacion (foreach, if, while, block, block_recursiv, etc...)
+
+v0.1	- Primer Sintactico
+v1	- Sintactico Funcional
+v2	- Sustentacion (foreach, if, while, block, block_recursiv, etc...)
